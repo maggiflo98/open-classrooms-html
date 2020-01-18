@@ -1,0 +1,26 @@
+
+body{
+    background-color:orange;
+    
+}
+a:hover{
+    color: darkcyan;
+}
+a:visited{
+    color: #000;
+}
+a:checked{
+    background-color: orangered;
+}
+h2{
+    font-family: sans-serif;
+    color:royalblue;
+}
+ul{
+    font-family: monospace;
+}
+h1{
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+}
